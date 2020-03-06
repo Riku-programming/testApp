@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         // This is a test.
         let badGuy = "GI"
         print(badGuy)
+        print(badGuy)
         
     }
 
